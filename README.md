@@ -3,6 +3,7 @@ A simple C++ Student Record Management System that demonstrates classes, vectors
 
 
 Features
+
 Add student records
 View all student records
 Store data using a vector<student>
@@ -16,6 +17,7 @@ Const references
 File handling (ofstream)
 CSV file generation
 Separating code into multiple source and header files
+
 Sample CSV Output
 
 ID,Name,Marks
